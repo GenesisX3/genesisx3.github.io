@@ -1,0 +1,127 @@
+header{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+h1{
+    font-size: 50pt;
+    font-family: "Liberation", "MS PGothic", "sans-serif";
+    margin: 50px 0 80px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h2{
+    font-family: newcomen, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    margin: 50px 0 80px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    width: auto;
+    height: auto; 
+}
+
+#disc{
+    font-family: newcomen, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic";
+    text-align: normal;
+    text-transform: uppercase;
+    margin: 50px 0 80px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    width: auto;
+    height: auto; 
+}
+
+h3{
+    text-align: center;
+    font-family: "Liberation";
+    font-style: normal;
+    font-size: 30pt;
+    margin: 50px 0 80px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#section-1{
+    color: white;
+    text-align: justify;
+    font-family: "Liberation";
+    font-size: 12pt;
+    background: black;
+    outline-style: outset;
+    outline-color: white;
+    border-radius: 0px;
+    padding: 15px;
+    width: 900px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+
+#section-2{
+    color: white;
+    font-size: 15pt;
+    font-family: "Liberation";
+    background: black;
+    outline-style: solid;
+    outline-color: white;
+    border-radius: 0px;
+    width: 6.5%;
+    /* UP HORIZONTAL BOTTOM*/
+    margin: 5% 19% auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+body{
+    background-color: #b50000;
+}
+
+#bg{
+    background-image: url(imagens/background.jpg);
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section-3{
+    color: white;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+    border-radius: 0px;
+    padding: 20px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    
+}
+
+a{
+    color: white;
+    text-decoration: underline white;
+}
+
+
+footer{
+    font: white;
+    font-size: 50pt;
+    text-align: center;
+    font-family: "Liberation", "MS PGothic", "sans-serif";
+    margin: 50px 0 80px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
